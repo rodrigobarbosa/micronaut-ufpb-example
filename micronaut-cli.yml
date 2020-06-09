@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: projeto.micronaut.ufpb
+---
+testFramework: junit
+sourceLanguage: java
